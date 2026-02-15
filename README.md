@@ -51,11 +51,4 @@ This project implicitly demonstrates multicore optimization principles: fewer co
 * **sqlite-api/** — REST API backed by embedded SQLite
 * **load-generator/** — Concurrent HTTP client measuring latency
 
----
 
-If you want, I can:
-
-* tailor this README for **research / blog post tone**
-* add **benchmark results and charts**
-* align it explicitly with **systems interviews or resume bullets**
-* rewrite it to match a **book/tutorial companion project**
