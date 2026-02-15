@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "actix-postgres",
+  "actix-sqlite",
+  "latency-client"
+]
+
